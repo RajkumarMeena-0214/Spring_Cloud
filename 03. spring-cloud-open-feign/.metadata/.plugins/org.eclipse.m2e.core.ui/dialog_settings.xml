@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\Spring Cloud\03. spring-cloud-open-feign\service-02"/>
+			<item value="D:\Spring Cloud\03. spring-cloud-open-feign\service-01"/>
+			<item value="D:\Spring Cloud\03. spring-cloud-open-feign\api-gateway"/>
+			<item value="D:\Spring Cloud\03. spring-cloud-open-feign\config-server"/>
+			<item value="D:\Spring Cloud\03. spring-cloud-open-feign\discovery-server"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
